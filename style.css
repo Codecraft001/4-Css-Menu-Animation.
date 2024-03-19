@@ -1,8 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
-
-
-
-
  * {
     margin: 0;
     padding: 0;
@@ -17,9 +13,6 @@
     min-height: 100vh;
     background: #000;
  }
-
-
-
  nav a {
     position: relative;
     font-size: 1.1em;
@@ -31,9 +24,6 @@
  nav a:hover {
     color: #0ef;
  }
-
-
- 
  nav a span {
     position: absolute;
     top: 0;
